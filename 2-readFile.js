@@ -5,6 +5,6 @@ fs.readFile('./files/notes.txt', (err, contentTxt) => {
         console.log(err)
     }
     else{
-        console.log(contentTxt)
+        console.log(contentTxt.toString())
     }
 })
