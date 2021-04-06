@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nodejs-learn
 
 * Salveeee
@@ -13,3 +14,13 @@
 
 Bora la!
 
+=======
+# nodejs-learn
+
+* Requisitos de software
+- nodejs instalado
+- ... só, rsrs
+
+* Outros requisitos
+- Basíco de js
+>>>>>>> 7aa04d0a1218b6d77251e514d08d44597ea36913
